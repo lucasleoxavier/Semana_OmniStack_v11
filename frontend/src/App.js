@@ -13,6 +13,7 @@ function App() {
         <br>
         </br>
         <p>Olá mundo</p>
+        <p>Hello world</p>
         <a
           className="App-link"
           href="https://reactjs.org"
